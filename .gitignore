@@ -1,0 +1,21 @@
+# IDE
+.vscode/*
+!.vscode/extensions.json
+
+## Project
+dist/*
+
+## Node.js
+*.log
+logs
+npm-debug.log
+node_modules
+
+## OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
