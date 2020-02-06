@@ -1,0 +1,30 @@
+{
+  "name": "cookjs",
+  "version": "0.1.0",
+  "description": "unopinionated static site generator for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonstaton/cookjs.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "react",
+    "jamstack",
+    "gatsby",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "Simon Staton <simon.staton@live.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonstaton/cookjs/issues"
+  },
+  "homepage": "https://github.com/simonstaton/cookjs#readme"
+}
